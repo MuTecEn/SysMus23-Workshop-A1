@@ -8,7 +8,9 @@ The video presentation can be found at (https://youtu.be/_rfotODwQk8).
 
 STEP 1 – Download the necessary Toolboxes
 •	MIR Toolbox: https://se.mathworks.com/matlabcentral/fileexchange/24583-mirtoolbox
+
 •	MoCap Toolbox: https://github.com/mocaptoolbox/mocaptoolbox
+
 •	MG Toolbox: https://github.com/fourMs/MGT-matlab
 
 STEP 2 – Placing the Toolboxes in the MATLAB path
